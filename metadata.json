@@ -1,0 +1,6 @@
+{
+  "name": "EPR Android App",
+  "description": "Android WebView wrapper for existing Cloudflare EPR System",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
